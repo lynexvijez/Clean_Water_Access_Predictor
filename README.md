@@ -120,8 +120,8 @@ Nine key predictors were selected based on literature review:
 2. **Residual Plot**: Random distribution confirms no systematic bias
 3. **Feature Correlations**: GDP and infrastructure are highly correlated
 4. **Error Distribution**: Normally distributed, centered at zero
-  ![feature importance for water access prediction]([path/to/image.png](https://github.com/lynexvijez/Clean_Water_Access_Predictor/blob/main/correlation_heatmap.png))
- ![correlation heat map]([path/to/image.png](https://github.com/lynexvijez/Clean_Water_Access_Predictor/blob/main/correlation_heatmap.png))
+  ![feature importance for water access prediction](feature_importance.png)
+ ![correlation heat map](correlation_heatmap.png)
 
 
 ---
@@ -279,4 +279,5 @@ python water_access_predictor.py
 ---
 
 **Contact**: [Your Email] | **Project Date**: October 2025
+
 
